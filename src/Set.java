@@ -2,6 +2,7 @@ import java.util.HashSet;
 
 public class Set {
 
+    //Разновидность Set
     public static void main(String[] args) {
         HashSet<Integer> myHashSet = new HashSet<>();
 
